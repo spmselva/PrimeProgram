@@ -51,5 +51,6 @@ public class PreviousTab
 		robot.keyRelease(KeyEvent.VK_2); //if you again want to go back to first tab press and release vk_1
 		************************
 		New Features added here on 27th Jan 2021 at 1.02 pm
+		2nd new feature added
 */	}
 }

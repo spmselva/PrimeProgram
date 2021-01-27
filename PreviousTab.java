@@ -49,5 +49,7 @@ public class PreviousTab
 		robot.keyPress(KeyEvent.VK_2); // here, we have just pressed ctrl+2
 		robot.keyRelease(KeyEvent.VK_CONTROL); // once we press and release ctrl+2, it will go to the second tab.
 		robot.keyRelease(KeyEvent.VK_2); //if you again want to go back to first tab press and release vk_1
+		************************
+		New Features added here on 27th Jan 2021 at 1.02 pm
 */	}
 }
